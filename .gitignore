@@ -1,0 +1,10 @@
+# Python virtual environment
+.VE_ML_Assignmetn/
+.VE_ML/
+.venv_ml_ass/
+.venv_ml_ass_full/
+Data/
+Others/
+__pycache__/
+*.pyc
+diabetes.csv
